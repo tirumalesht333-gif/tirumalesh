@@ -1,6 +1,5 @@
 # tirumalesh
 Researcher exploring quantum foundations, AI, and intelligent systems.
-# Tirumalesh
 
 I work on **foundational questions in computation**, with a focus on **quantum foundations, artificial intelligence, and intelligent systems**.
 
